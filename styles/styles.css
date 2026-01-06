@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.section-container{
+    background-image: url("../images/banner/banner1.png");
+    width: 1600px;
+    height: 808px;
+    margin: 0;
+}
+.section-heading {
+    text-align: right;
+    padding: 216px 230px 364px 845px;
+
+}
+.section-heading h2 {
+    color: #151414;
+    font-size: 65px;
+    font-weight: bold;
+    margin-bottom: 24px;
+
+}
+.section-heading p {
+    font-size: 16px;
+    color: #444343;
+    line-height: 26px;
+
+
+}
+.btn {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 25px 20px 26px;
+    border-radius: 5px;
+    background-color: #F15B22;
+    margin-top: 32px;
+    border: none;
+
+}
+.container {
+    margin: 131px 363px 0 206px;
+
+}
+.container .child-container {
+    display: flex;
+    gap: 35px;
+
+}
+.child-container .heading {
+    margin-top: 276px;
+}
+.child-container .heading h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #151414;
+     margin-bottom: 24px;
+}
+.child-container .heading p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+
+}
+.heading ul {
+    list-style: none;
+    margin-left: 0;
+    padding: 0;
+}
+.heading ul li::before{
+    content: '✓';
+    color: rgb(14, 233, 14);
+    margin-right: 8px;
+    font-size: 20px;
+}
