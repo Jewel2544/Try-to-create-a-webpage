@@ -41,7 +41,7 @@ body{
     font-weight: 600;
     padding: 21px 25px 20px 26px;
     border-radius: 5px;
-    background-color: #F15B22;
+    background-color:white;
     margin-top: 32px;
     border: none;
 
@@ -181,6 +181,16 @@ body{
     padding: 21px 25px 20px 26px;
     border-radius: 5px;
     background-color: #FFFFFF;
+    margin-top: 32px;
+    border: none;
+
+}
+.btnr-2 {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 25px 20px 26px;
+    border-radius: 5px;
+    background-color: #005FAC;
     margin-top: 32px;
     border: none;
 
